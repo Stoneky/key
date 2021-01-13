@@ -1,0 +1,2 @@
+./bsdiff old.apk new.apk old-to-new.patch 生成增量文件
+./bspatch old.apk new2.apk old-to-new.patch  增量文件和old.apk合并成新的apk

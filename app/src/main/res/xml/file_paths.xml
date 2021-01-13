@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <files-path
+        name="icity"
+        path="icity/"/>
+
+    <external-cache-path
+        name="iCityCache1"
+        path="iCity/"/>
+
+    <cache-path
+        name="iCityCache2"
+        path="iCity/"/>
+</paths>
